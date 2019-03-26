@@ -21,3 +21,22 @@ Lab2/sram_yuqian_columntest.vec
 Lab2/sram_yuqian_low - Copy.vec
 Lab1P2/fulladder.out
 Lab1P2/full_adder_1_bit.vec
+FinalPhase1/RF_CELL.vec
+.vscode/test.c
+.vscode/test.exe
+.gitignore
+.vscode/settings.json
+.vscode/launch.json
+.vscode/c_cpp_properties.json
+.gitignore
+FinalPhase1/phase1_test0.vec
+FinalPhase1/phase1_test.vec
+FinalPhase1/sram512.bit.vec
+FinalPhase1/compilelog.txt
+FinalPhase1/assemblycode.txt
+FinalPhase1/__pycache__/VEC_GEN.cpython-37.pyc
+FinalPhase1/__pycache__/Compile_log.cpython-37.pyc
+FinalPhase1/machinecode.txt
+FinalPhase1/RF_TEST1bit.vec
+FinalPhase1/RF_TEST.vec
+.gitignore
